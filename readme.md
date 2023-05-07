@@ -8,9 +8,9 @@ Very fast and simple XML parser for Lua based on RapidXML 1.13.
 install
 -------
 
-    luarocks install xml
+    luarocks install https://raw.githubusercontent.com/MyGitHub5/xml/master/xml-1.1.3-1.rockspec
 
 install on Windows
 ------------------
 
-    luarocks install xml  CC=g++ LD=g++
+    luarocks install https://raw.githubusercontent.com/MyGitHub5/xml/master/xml-1.1.3-1.rockspec  CC=g++ LD=g++
